@@ -2,7 +2,7 @@
 
 ---
 
-![me as a cartoon]
+![me as a cartoon](Telecommuting-pana.png)
 
 ## :book: About Me
 
