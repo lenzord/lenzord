@@ -10,7 +10,7 @@ I'm a software development student and part time musician, passionate about maki
 
 I started learning web development in early 2021, since then I've been deepening on technologies such as: JavaScript, HTML, CSS, Git, React.JS, Redux, Context API and manipulating data bases with MySQL.
 
-## :honeybee: What Im up to
+## :honeybee: What I'm up to
   - [BeeDev's Notion](http://is.gd/beedev)
   - ### In the near future, I plan to...
     - Expanding my knowlodge on new technologies for accessibility 
