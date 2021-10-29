@@ -2,7 +2,7 @@
 
 ---
 
-<img src="Telecommuting-pana.png" width="500px" align="right"/>
+<img src="Telecommuting-pana.png" width="400px" align="right"/>
 
 ## :book: About Me
 
