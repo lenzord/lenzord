@@ -26,10 +26,10 @@ I started learning web development in early 2021, since then I've been deepening
  - MySQL
 
 ## :postbox: How to reach me
-
-  - ### :email: Email > lenzordmusic@gmail.com
-  - ### :camera: Instagram > https://www.instagram.com/iamlenzord/
-  - ### :briefcase: LinkedIn > https://www.linkedin.com/in/lenzgabriel/
+   
+  [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:lenzordmusic@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamlenzord/)
+  [![BeeDev Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lenzgabriel/)
  
 <!--
 **lenzord/lenzord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
