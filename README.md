@@ -2,8 +2,6 @@
 
 ---
 
-<img src="Telecommuting-pana.png" width="400px" align="right"/>
-
 ## :book: About Me
 
 Im a developer on InnLeaders, working on a daily basis improving business solutions via Wix by Velo
